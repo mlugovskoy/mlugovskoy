@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hello there! I'm Maxim Lugovkoy</h1>
 <h3 align="center">PHP developer</h3>
 <div align="center">
-  <a href="https://www.t.me/x_lmv_x">
+  <a target="_blank" href="https://www.t.me/x_lmv_x">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>

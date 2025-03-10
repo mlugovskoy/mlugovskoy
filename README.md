@@ -6,11 +6,6 @@
   </a>
 </div>
 <br/>
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mlugovskoy&theme=algolia)
-
-</div>
 
 <h2 align="left">Languages and Tools</h2>
 

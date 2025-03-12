@@ -47,13 +47,18 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-      </a><br>Javascript
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+      </a><br>Nuxt
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
       </a><br>Vue
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+      </a><br>Javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#">

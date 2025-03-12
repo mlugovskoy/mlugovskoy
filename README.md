@@ -25,6 +25,11 @@
     </td>
     <td align="center" width="110" height="90">
         <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
+        </a><br>Symfony
+    </td>
+    <td align="center" width="110" height="90">
+        <a href="#">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
         </a><br>MySQL
     </td>
@@ -47,7 +52,7 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
       </a><br>Nuxt
     </td>
     <td align="center" width="110" height="90">
